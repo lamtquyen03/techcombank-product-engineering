@@ -1,0 +1,11 @@
+# Local env
+node_modules/
+venv/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/

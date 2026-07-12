@@ -1,0 +1,24 @@
+%% Portfolio diagram — product clusters
+flowchart LR
+  style P fill:#0b75bd,stroke:#034f84,color:#fff
+  P[Techcombank Products]
+  subgraph Retail
+    R1[Current Account]
+    R2[Savings]
+    R3[Cards]
+  end
+  subgraph SME
+    S1[SME Account]
+    S2[SME Loans]
+    S3[E-invoicing]
+  end
+  subgraph Wealth
+    W1[Investments]
+  end
+
+  P --> Retail
+  P --> SME
+  P --> Wealth
+
+  classDef bankFill fill:#f3f6fb,stroke:#0b75bd;
+  class Retail,SME,Wealth bankFill;
