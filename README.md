@@ -93,4 +93,4 @@ gantt
 
 ---
 
-If you want more visuals (colored swimlanes, persona cards, or export-ready PNGs), tell me which diagram to expand and I will commit & push updates.
+ 
