@@ -2,6 +2,26 @@
 
 ![Techcombank hero](assets/hero-personal.webp)
 
+## Delivery loop for PO and engineering
+
+```mermaid
+flowchart LR
+  A[Customer insight] --> B[Problem framing]
+  B --> C[Scope & acceptance]
+  C --> D[Build & launch]
+  D --> E[Measure & learn]
+  E --> A
+  classDef stage fill:#eef7ff,stroke:#0b75bd,color:#0a2540;
+  class A,B,C,D,E stage;
+```
+
+### Operating focus
+
+- Trust & security first
+- Mobile-first convenience
+- Clear customer value for retail, SME, and investors
+- Fast rollout with monitoring and feedback loops
+
 ## Quick links
 
 - Docs: [docs/product-spec.md](docs/product-spec.md)
