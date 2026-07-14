@@ -1,7 +1,5 @@
 # Techcombank — Product Engineering Playbook
 
-A concise, production-style playbook for product owners and engineering teams shaping Techcombank digital products. This repo is designed to look like a polished internal artifact: clear product framing, strong visuals, and practical delivery structure.
-
 ![Techcombank hero](assets/hero-personal.webp)
 
 ## Quick links
